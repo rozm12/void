@@ -1917,8 +1917,8 @@ local CoolkidTable = {
 		['Colour'] = Color3.fromRGB(57,52,52);
 		['Access'] = true;
 	};
-    ['96316322']    = {
-		['Name']   = "!fishgang Ambiguity";
+    ['23257782']    = {
+		['Name']   = "!Void  Shine ";
 		['Colour'] = Color3.fromRGB(57,52,52);
 		['Access'] = true;
 	};
