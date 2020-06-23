@@ -141,7 +141,7 @@ TextButton.TextScaled = true
 TextButton.TextSize = 14.000
 TextButton.TextWrapped = true
 TextButton.MouseButton1Down:connect (function()
-	if TextBox.Text == "s" then
+	if TextBox.Text == "efrwgefrtwyer4twtergwytgrefwgte" then
 		logingui.Visible = false
 		maingui.Visible = true
 	end
