@@ -1,4 +1,9 @@
---[[
+spawn(function()
+    while wait() do
+        sethiddenproperty(game.Players.LocalPlayer, "SimulationRadius", math.huge)
+        sethiddenproperty(game.Players.LocalPlayer, "MaximumSimulationRadius", math.huge)
+    end
+end)--[[
 Hats u need for spache ship!
 
 https://web.roblox.com/catalog/417457461/ROBLOX-R-Baseball-Cap
